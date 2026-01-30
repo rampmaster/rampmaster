@@ -28,7 +28,8 @@ I am a software engineer and researcher with over 15 years of experience in the 
 - **Quantum Computing with Qiskit**
 
 ### 📫 How to reach me:
-- **LinkedIn:** [Your LinkedIn Profile Link]
+- **Website:** https://rampmaster.dev
+- **LinkedIn:** https://linkedin.com/in/rmorenp
 - **Email:** rmorenp@gmail.com
 - **Location:** Santiago, Chile
 
